@@ -69,7 +69,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Todo List</h1>
+      <h1 className='name'>Rockelle's</h1>
+      <h1 className='name'>Todo List</h1>
       <input
         type="text"
         placeholder="Add new todo"
